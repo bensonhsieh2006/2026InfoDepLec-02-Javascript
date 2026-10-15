@@ -20,3 +20,5 @@ Simple webpage using HTML & CSS.
 
 4. Right click ```index.html``` -> Reveal in File Explorer
 5. Open ```index.html```
+6. You will see the todo-list website
+
